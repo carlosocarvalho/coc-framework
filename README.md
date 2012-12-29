@@ -5,7 +5,7 @@
           *      *   *  *         *      * *    * * *   *     * *     * * * * *   * * *   *  *
           *****  *****  *****     *      *   *  *    *  *     * ***** *     * ***** *   * *   * 
 ======================================================================================================================
-----------O QUE JA FOI DESENVOLVIDO COM ESSE PEQUENO FRAMEWORK 
+O QUE JA FOI DESENVOLVIDO COM ESSE PEQUENO FRAMEWORK 
 ----------------------------------------------------------------------------------------------------------------------
 * Sistema construido com esse mini-framework omegaportoes.com.br
 
