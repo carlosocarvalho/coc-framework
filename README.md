@@ -7,7 +7,7 @@
 ======================================================================================================================
 O QUE JA FOI DESENVOLVIDO COM ESSE PEQUENO FRAMEWORK 
 ----------------------------------------------------------------------------------------------------------------------
-* Sistema construido com esse mini-framework http:www.omegaportoes.com.br
+* Sistema construido com esse mini-framework http://omegaportoes.com.br
 
 
 
