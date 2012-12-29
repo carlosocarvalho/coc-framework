@@ -1,0 +1,19 @@
+<h2>Novo Post</h2>
+<form id="formPosts" class="focused well span8" action="<?php echo base_url('posts/novo'); ?>" method="post">
+    <input type="hidden" name="gravar" value="1" />
+    <div class="span8">
+        <label for="titulo">Titulo</label> 
+        <input name="titulo"  class="input-xxlarge"/>
+    </div>
+
+    <div class="span8">
+        <label for="texto">Texto</label> 
+        <textarea name="texto"  class="input-xxlarge" rows="10"></textarea>
+    </div>
+    <div class="clearfix"></div>
+    <div class="pull-right"><input type="submit" class="btn" value="Gravar" /></div>
+    <div class="clearfix"></div>
+</form>
+<?php 
+add_js(array('common/jquery.posts','plugins/validate/jquery.validate'));
+?>
